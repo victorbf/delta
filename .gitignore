@@ -8,3 +8,5 @@ coverage
 .nvmrc
 *.code-workspace
 .env
+uploads
+prisma/dev.db
