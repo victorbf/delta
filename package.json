@@ -1,5 +1,9 @@
 {
   "scripts": {
-    "dev:ui": "cd ui && yarn dev"
+    "dev:ui": "cd ui && yarn dev",
+    "dev:server": "cd server && yarn dev",
+    "install:ui": "cd ui && yarn",
+    "install:server": "cd server && yarn",
+    "test": "cd ui && yarn test"
   }
 }
