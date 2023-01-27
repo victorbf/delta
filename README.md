@@ -6,10 +6,11 @@
 
 - **Como começar?**
 
-> Faça a instalação dos pacotes do frontend utilizando `yarn install:ui`
-> Faça a instalação dos pacotes do backend utilizando `yarn install:server`
-> Em seguida utilize o comando `yarn dev:ui` para rodar a aplicação frontend localmente
-> E `yarn dev:server` para rodar a aplicação backend localmente
+- Faça a instalação dos pacotes do frontend utilizando `yarn install:ui`
+- Faça a instalação dos pacotes do backend utilizando `yarn install:server`
+- Em seguida utilize o comando `yarn dev:ui` para rodar a aplicação frontend localmente
+- E `yarn dev:server` para rodar a aplicação backend localmente
+
 - **Outros comandos!**
 
 - `yarn test` para rodar os testes da aplicação
